@@ -1,0 +1,18 @@
+body{
+    color: black;
+    background: lightpink;
+    
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects,#result_object_name{
+    color: red;
+}
+#camera{
+    border: 2px dashed blue;
+    width: 350px;
+    height: 300px;
+
+}
